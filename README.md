@@ -1,34 +1,44 @@
-# Portfólio — Vitor Bezerra Marques
+# Portfólio — Vitor Marques
 
-Portfólio pessoal desenvolvido para apresentar minha trajetória como estudante de Ciência da Computação, meus conhecimentos atuais e projetos.
+Olá! Sou estudante de Ciência da Computação em busca de oportunidades para crescer na área de tecnologia. Este portfólio reúne quem eu sou, o que já estudei e os projetos que construí.
 
-## Tecnologias
-- HTML5
-- CSS3
-- JavaScript
+## Projetos
 
-## Funcionalidades
+| Projeto | Descrição | Links |
+|---|---|---|
+| **TaskFlow** | Lista de tarefas com filtros, barra de progresso e salvamento automático. | [Demo](https://vitormarques07.github.io/lista-de-tarefas/) · [Código](https://github.com/VitorMarques07/lista-de-tarefas) |
+
+Mais projetos serão adicionados conforme eu os concluir.
+
+## O que o site oferece
+
 - Layout responsivo para celular e computador
-- Alternância entre tema claro e escuro
+- Tema claro e escuro
 - Menu adaptado para dispositivos móveis
 - Animações suaves ao rolar a página
-- Seções sobre, conhecimentos, projetos e contato
+- Seções sobre mim, conhecimentos, projetos e contato
 
-## Conhecimentos apresentados
-HTML, CSS, Java, Python, SQL, programação mobile e ferramentas do Microsoft Office (Excel, Word e PowerPoint), em nível básico ou em aprendizado conforme indicado no site.
+## Conhecimentos
 
-## Como executar
+- **Web:** HTML, CSS e JavaScript
+- **Em aprendizado:** Java, Python, SQL e programação mobile
+- **Ferramentas:** Excel, Word e PowerPoint (nível básico)
+
+## Contato
+
+- **E-mail:** vitorbezerramaqrues.07@gmail.com
+- **LinkedIn:** [Vitor Bezerra Marques](https://www.linkedin.com/in/vitor-bezerra-marques-116b10376)
+- **GitHub:** [@VitorMarques07](https://github.com/VitorMarques07)
+
+## Tecnologias usadas no site
+
+HTML5, CSS3 e JavaScript, sem frameworks.
+
+## Como executar localmente
+
 1. Baixe ou clone este repositório.
-2. Abra a pasta no VS Code.
-3. Abra o arquivo `index.html` no navegador (ou use a extensão Live Server).
-
-## Personalização pendente
-- Substituir o endereço de e-mail de exemplo na seção de contato.
-- Adicionar o link do perfil do LinkedIn.
-- Atualizar os projetos planejados quando estiverem implementados.
-
-## Publicação
-O site pode ser publicado gratuitamente pelo GitHub Pages nas configurações do repositório.
+2. Abra o arquivo `index.html` no navegador (ou use a extensão Live Server do VS Code).
 
 ---
-Desenvolvido por **Vitor Bezerra Marques**.
+
+Desenvolvido por Vitor Marques.
